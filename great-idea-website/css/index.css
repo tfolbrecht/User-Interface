@@ -64,3 +64,27 @@ h1, h2, h3, h4, h5 {
 }
 
 /* Your code starts here! */
+
+.logo {
+	border: 1px solid red;
+}
+
+.hero {
+	border: 1px solid red;
+}
+
+div {
+	border: 1px solid red;
+}
+
+.header-img {
+	border: 1px solid red;
+}
+
+.features {
+	border: 1px solid red;
+}
+
+.about {
+	border: 1px solid red;
+}
